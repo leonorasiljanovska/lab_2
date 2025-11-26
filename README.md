@@ -44,7 +44,7 @@ The app demonstrates API integration, navigation, models, UI widgets, and asynch
 ---
 
 ## 🧩 Project Architecture
-
+```
 lib/
 │
 ├── models/
@@ -61,7 +61,7 @@ lib/
 │ └── recipe_details_screen.dart
 │
 └── main.dart
-
+```
 - **models/** → Data structures mapped from API responses  
 - **services/** → API calls using the http package  
 - **screens/** → UI pages with navigation  
